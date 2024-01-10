@@ -10,7 +10,7 @@
 
 ```javascript
     <LinkButton href="/home">Home</LinkButton>
-    <LinkButton href="/home">About</LinkButton>
+    <LinkButton href="/about">About</LinkButton>
     <LinkButton onClick={() => console.log("button")}>Go to</LinkButton>
 ```
 
